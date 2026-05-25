@@ -1,7 +1,3 @@
-> ⚠️ **Limitations:** Small sample size (30 users) and data from 2016 may not fully reflect current user behavior trends.
- 
----
- 
 ## 🛠️ Tools Used
  
 - **Python** — core analysis language
