@@ -144,13 +144,13 @@ Key statistics from `df_activity.describe()`:
 ## Step 6: Act (Recommendations) 💡
  
 ### 1. 🔔 Smart Activity Notifications
-Since 81.3% of usage is sedentary, Bellabeat should implement intelligent nudges in the app — reminding users to hit step goals and move during long inactive periods. Weekend push notifications could help close the engagement gap seen on Saturdays and Sundays.
+Since 81.3% of usage is sedentary, Bellabeat should implement intelligent nudges in the app reminding users to hit step goals and move during long inactive periods. Weekend push notifications could help close the engagement gap seen on Saturdays and Sundays.
  
 ### 2. 📅 Weekday-Focused Marketing Campaigns
 Users are most active tracking on weekdays. Bellabeat should time their digital campaigns (Google Search, Instagram, Facebook) around **Tuesday–Thursday** for maximum engagement and click-through rates.
  
 ### 3. 📈 Personalized Weekly Health Reports via Membership
-Leverage the Bellabeat membership program to deliver personalized weekly summaries — showing users their sedentary vs. active time split and nudging them toward improvement. This deepens app retention and differentiates Bellabeat from competitors.
+Leverage the Bellabeat membership program to deliver personalized weekly summaries showing users their sedentary vs. active time split and nudging them toward improvement. This deepens app retention and differentiates Bellabeat from competitors.
  
 ---
  
